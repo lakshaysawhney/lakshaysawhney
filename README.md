@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Lakshay Sawhney 👋</h1>
 
 <h3 align="center">
@@ -142,4 +141,3 @@ A database-heavy analytics backend for real estate investment analysis.
 <p align="center">
   <b>Building backend systems, shipping real products, and learning fast.</b>
 </p>
-```
