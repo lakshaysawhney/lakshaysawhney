@@ -96,31 +96,3 @@ SQL-heavy analytics backend for ROI, cash flow, lease exposure, rental insights,
   <img src="https://img.shields.io/badge/MiniLM-Reranking-green?style=flat-square" />
   <img src="https://img.shields.io/badge/XGBoost-Learning%20to%20Rank-orange?style=flat-square" />
 </p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshaysawhney&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaysawhney&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
-
----
-
-## Connect With Me
-
-<p>
-  <a href="mailto:lsawhney07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lakshay-sawhney/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>Building backend systems, shipping real products, and learning fast.</b>
-</p>
