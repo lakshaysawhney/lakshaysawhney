@@ -22,7 +22,7 @@
 
 I'm a final-year Computer Engineering student at **Thapar Institute of Engineering and Technology** with a **9.58 CGPA**, building at the intersection of **backend systems, cloud deployment, and applied AI/ML**.
 
-I like taking projects beyond prototypes — designing APIs, building authentication flows, working with databases, deploying systems used by real users, debugging production issues, and creating ML-backed pipelines that run end to end.
+I like taking ideas beyond prototypes: designing APIs, building authentication flows, working with databases, deploying systems used by real users, debugging production issues, and creating ML-backed pipelines that run end to end.
 
 Currently focused on **backend engineering, DevOps, applied AI/ML, information retrieval, and system design**.
 
@@ -33,7 +33,7 @@ Currently focused on **backend engineering, DevOps, applied AI/ML, information r
 - **Software Engineering & AI Intern @ DRDO HQ**
 - Built a multilingual search system using **BM25, E5, MiniLM reranking, and XGBoost fusion**
 - Achieved **99.68% NDCG@10** and ranked **2nd internationally** in the CMIR 2025 Data Challenge
-- Published research at **FIRE 2025**
+- Published research at **FIRE 2025**: [From Romanised to Relevant](https://ceur-ws.org/Vol-4173/T3-3.pdf)
 - Built and deployed **Thapar Go**, serving **2.5K+ monthly users** and **95K+ requests/month**
 - Semi-Finalist at **Flipkart GRID 7.0** and **Bhasha Bandhu Hackathon**
 - Runner-Up in the **ML Trading Track at brAInwave 2024**
@@ -46,25 +46,16 @@ Currently focused on **backend engineering, DevOps, applied AI/ML, information r
 ### 🚗 Thapar Go  
 **Django REST · Google OAuth · JWT · AWS EC2 · Docker · NGINX · GitHub Actions**
 
-A production-grade university ride-pooling platform for TIET students.
-
-- Built a domain-restricted backend with Google OAuth + JWT authentication
-- Deployed on AWS EC2 using Docker, NGINX, Gunicorn, Cloudflare DNS, and GitHub Actions CI/CD
-- Handles **2.5K+ monthly users** and **95K+ requests/month**
+Production-grade university ride-pooling platform for TIET students, with domain-restricted authentication, CI/CD, and real user traffic.
 
 [Repository](https://github.com/lakshaysawhney/Thapar-Go) · [Live](https://www.thapargo.com)
 
 ---
 
-### 🔍 DRDO Multilingual Search Toolkit  
+### 🔍 Multilingual Search System @ DRDO HQ  
 **BM25 · E5 · MiniLM · XGBoost · NLP · Information Retrieval**
 
-An end-to-end multilingual retrieval pipeline for noisy English-Bengali code-mixed queries.
-
-- Combined lexical retrieval, dense retrieval, cross-encoder reranking, and learning-to-rank fusion
-- Achieved **99.68% NDCG@10** on a 107K-document corpus
-- Ranked **2nd internationally** in CMIR 2025
-- Published at **FIRE 2025**
+End-to-end retrieval system for noisy English-Bengali code-mixed queries, built during my Software Engineering & AI internship at DRDO HQ.
 
 [Paper](https://ceur-ws.org/Vol-4173/T3-3.pdf)
 
@@ -73,11 +64,7 @@ An end-to-end multilingual retrieval pipeline for noisy English-Bengali code-mix
 ### 📈 Stock Pulse  
 **Django REST · WebSockets · Django Channels · LangChain · CrewAI**
 
-A real-time stock analytics platform with sentiment analysis, backtesting, portfolio insights, and AI-powered research workflows.
-
-- Built JWT-secured backend APIs consumed by a React frontend
-- Implemented real-time multi-user communication using Django Channels
-- Integrated AI-agent workflows using LangChain and CrewAI
+Real-time stock analytics backend with sentiment analysis, backtesting, portfolio insights, WebSockets, and AI-agent research workflows.
 
 [Repository](https://github.com/lakshaysawhney/StockPulse)
 
@@ -86,11 +73,7 @@ A real-time stock analytics platform with sentiment analysis, backtesting, portf
 ### 🏠 Real Estate Investment & Rental Profitability Tracker  
 **Django REST · Oracle DB · Raw SQL · PL/SQL**
 
-A database-heavy analytics backend for real estate investment analysis.
-
-- Built APIs for ROI, cash flow, lease exposure, rental insights, and market trends
-- Used raw SQL and PL/SQL instead of ORM
-- Designed a normalized relational schema with 17+ advanced SQL queries
+SQL-heavy analytics backend for ROI, cash flow, lease exposure, rental insights, and real estate investment analysis.
 
 [Repository](https://github.com/lakshaysawhney/Real-Estate-Investment-and-Rental-Profitability-Tracker)
 
