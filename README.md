@@ -30,22 +30,22 @@ Currently focused on **backend engineering, DevOps, applied AI/ML, information r
 
 ## Highlights
 
-- **Software Engineering & AI Intern @ DRDO HQ**
+- **SWE & AI Intern @ DRDO HQ**
 - Built a multilingual search system using **BM25, E5, MiniLM reranking, and XGBoost fusion**
-- Achieved **99.68% NDCG@10** and ranked **2nd internationally** in the CMIR 2025 Data Challenge
+- Ranked **2nd internationally** in the CMIR 2025 Data Challenge with **99.68% NDCG@10**
 - Published research at **FIRE 2025**: [From Romanised to Relevant](https://ceur-ws.org/Vol-4173/T3-3.pdf)
 - Built and deployed **Thapar Go**, serving **2.5K+ monthly users** and **95K+ requests/month**
 - Semi-Finalist at **Flipkart GRID 7.0** and **Bhasha Bandhu Hackathon**
 - Runner-Up in the **ML Trading Track at brAInwave 2024**
-- Awarded merit scholarships worth **₹8L+**
+- Merit scholarships worth **₹8L+**
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 - **[Thapar Go](https://github.com/lakshaysawhney/Thapar-Go)** · [Live](https://www.thapargo.com)  
   `Django REST` `Google OAuth` `JWT` `AWS EC2` `Docker` `NGINX` `GitHub Actions`  
-  Production-grade university ride-pooling platform for TIET students, serving **2.5K+ monthly users** and **95K+ requests/month**.
+  Production-grade university ride-pooling platform serving **2.5K+ monthly users** and **95K+ requests/month**.
 
 - **[Multilingual Search System @ DRDO HQ](https://ceur-ws.org/Vol-4173/T3-3.pdf)**  
   `BM25` `E5` `MiniLM` `XGBoost` `NLP` `Information Retrieval`  
@@ -53,11 +53,12 @@ Currently focused on **backend engineering, DevOps, applied AI/ML, information r
 
 - **[Stock Pulse](https://github.com/lakshaysawhney/StockPulse)**  
   `Django REST` `WebSockets` `Django Channels` `LangChain` `CrewAI`  
-  Real-time stock analytics backend with sentiment analysis, backtesting, portfolio insights, and AI-agent research workflows.
+  Real-time stock analytics backend with sentiment analysis, backtesting, portfolio insights, and AI-agent workflows.
 
 - **[Real Estate Investment & Rental Profitability Tracker](https://github.com/lakshaysawhney/Real-Estate-Investment-and-Rental-Profitability-Tracker)**  
   `Django REST` `Oracle DB` `Raw SQL` `PL/SQL`  
   SQL-heavy analytics backend for ROI, cash flow, lease exposure, rental insights, and investment analysis.
+
 ---
 
 ## Tech Stack
@@ -76,4 +77,10 @@ Currently focused on **backend engineering, DevOps, applied AI/ML, information r
   <img src="https://img.shields.io/badge/BM25-Information%20Retrieval-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/MiniLM-Reranking-green?style=flat-square" />
   <img src="https://img.shields.io/badge/XGBoost-Learning%20to%20Rank-orange?style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  <b>Building backend systems, shipping real products, and learning fast.</b>
 </p>
