@@ -41,42 +41,23 @@ Currently focused on **backend engineering, DevOps, applied AI/ML, information r
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
-### 🚗 Thapar Go  
-**Django REST · Google OAuth · JWT · AWS EC2 · Docker · NGINX · GitHub Actions**
+- **[Thapar Go](https://github.com/lakshaysawhney/Thapar-Go)** · [Live](https://www.thapargo.com)  
+  `Django REST` `Google OAuth` `JWT` `AWS EC2` `Docker` `NGINX` `GitHub Actions`  
+  Production-grade university ride-pooling platform for TIET students, serving **2.5K+ monthly users** and **95K+ requests/month**.
 
-Production-grade university ride-pooling platform for TIET students, with domain-restricted authentication, CI/CD, and real user traffic.
+- **[Multilingual Search System @ DRDO HQ](https://ceur-ws.org/Vol-4173/T3-3.pdf)**  
+  `BM25` `E5` `MiniLM` `XGBoost` `NLP` `Information Retrieval`  
+  End-to-end retrieval system for noisy English-Bengali code-mixed queries; ranked **2nd internationally** in CMIR 2025.
 
-[Repository](https://github.com/lakshaysawhney/Thapar-Go) · [Live](https://www.thapargo.com)
+- **[Stock Pulse](https://github.com/lakshaysawhney/StockPulse)**  
+  `Django REST` `WebSockets` `Django Channels` `LangChain` `CrewAI`  
+  Real-time stock analytics backend with sentiment analysis, backtesting, portfolio insights, and AI-agent research workflows.
 
----
-
-### 🔍 Multilingual Search System @ DRDO HQ  
-**BM25 · E5 · MiniLM · XGBoost · NLP · Information Retrieval**
-
-End-to-end retrieval system for noisy English-Bengali code-mixed queries, built during my Software Engineering & AI internship at DRDO HQ.
-
-[Paper](https://ceur-ws.org/Vol-4173/T3-3.pdf)
-
----
-
-### 📈 Stock Pulse  
-**Django REST · WebSockets · Django Channels · LangChain · CrewAI**
-
-Real-time stock analytics backend with sentiment analysis, backtesting, portfolio insights, WebSockets, and AI-agent research workflows.
-
-[Repository](https://github.com/lakshaysawhney/StockPulse)
-
----
-
-### 🏠 Real Estate Investment & Rental Profitability Tracker  
-**Django REST · Oracle DB · Raw SQL · PL/SQL**
-
-SQL-heavy analytics backend for ROI, cash flow, lease exposure, rental insights, and real estate investment analysis.
-
-[Repository](https://github.com/lakshaysawhney/Real-Estate-Investment-and-Rental-Profitability-Tracker)
-
+- **[Real Estate Investment & Rental Profitability Tracker](https://github.com/lakshaysawhney/Real-Estate-Investment-and-Rental-Profitability-Tracker)**  
+  `Django REST` `Oracle DB` `Raw SQL` `PL/SQL`  
+  SQL-heavy analytics backend for ROI, cash flow, lease exposure, rental insights, and investment analysis.
 ---
 
 ## Tech Stack
